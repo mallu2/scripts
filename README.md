@@ -1,0 +1,1 @@
+These are scripts that are used to mutate bases. For now the code in teh hupyter-notebook should work but should be further developed into a little program. The problem is tha the numbering of the DNA bases is not automatically correct.
